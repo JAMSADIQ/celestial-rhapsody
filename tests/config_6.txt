@@ -1,0 +1,6 @@
+[Global]
+G = 1.0
+dt = 0.01
+final_time = 5
+
+[Planet]

@@ -1,0 +1,6 @@
+[Global]
+G = 1.0
+
+[Planet]
+
+

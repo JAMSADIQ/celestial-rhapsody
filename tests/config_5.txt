@@ -1,0 +1,18 @@
+[Global]
+G = 1.0
+
+[Planet]
+name = Earth
+mass = 0.5
+x_0 = 1.0
+y_0 = 2.0
+vx_0 = 0.01
+vy_0 = 0.02
+
+[Planet]
+name = Mars
+mass = 0.4
+x_0 = -5.0
+y_0 = 2.0
+vx_0 = 0.04
+vy_0 = 0.01
