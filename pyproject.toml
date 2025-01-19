@@ -1,0 +1,9 @@
+[project]
+name='Nsimulate'
+version='0.0.1'
+authors=[{name='jam', email="abc@gmail.com"}]
+description='nbody code'
+
+[project.scripts]
+nbody="simulateNbody:main"
+
